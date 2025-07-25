@@ -52,7 +52,7 @@ Detecting Retroperitoneal Lymph Nodes using nnUNet
 
 ### **Processing Pipeline**
 <div align="center">
-    <img src="https://github.com/RadioX-Labs/RetroLN-nnUNet/blob/main/resources/results_comparison.jpg" alt="Segmentation Results" width="800"/>
+    <img src="https://github.com/RadioX-Labs/RetroLN-nnUNet/blob/main/resources/nnunetv2_RLN_pipeline.jpg" alt="Segmentation Results" width="800"/>
 </div>
 
 
