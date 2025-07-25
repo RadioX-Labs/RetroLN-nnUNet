@@ -51,6 +51,9 @@ Detecting Retroperitoneal Lymph Nodes using nnUNet
 | **Strides** | [[1,1,1], [1,2,2], [2,2,2], [2,2,2], [2,2,2], [2,2,2]] |
 
 ### **Processing Pipeline**
+<div align="center">
+    <img src="https://github.com/RadioX-Labs/RetroLN-nnUNet/blob/main/resources/results_comparison.jpg" alt="Segmentation Results" width="800"/>
+</div>
 
 
 ### **U-Net Layer Structure**
@@ -224,7 +227,6 @@ python crop.py \
 ## Results
 
 ### **Performance Metrics**
-
 
 ### **Processing Performance**
 
