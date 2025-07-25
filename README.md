@@ -59,6 +59,7 @@ Detecting Retroperitoneal Lymph Nodes using nnUNet
 <div align="center">
     <img src="https://github.com/RadioX-Labs/RetroLN-nnUNet/blob/main/resources/nnunetv2_arch.jpg" alt="nnUNet Architecture Figure" width="800"/>
 </div>
+
 ---
 
 ## Dataset
